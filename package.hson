@@ -1,0 +1,12 @@
+{
+  "name": "bull-terrors-online",
+  "version": "1.0.0",
+  "description": "BULL TERRORS ONLINE SERVER",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
